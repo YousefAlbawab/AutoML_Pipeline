@@ -14,8 +14,9 @@ AutoML_Project/
 
 Installation
 Ensure you have Python 3.7+ installed.
+
 Step 1: Clone the Repository
-git clone https://github.com/YOUR-USERNAME/AutoML_Project.git
+git clone https://github.com/YousefAlbawab/AutoML_Pipeline.git
 cd AutoML_Project
 
 Step 2: Install Dependencies
